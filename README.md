@@ -1,1 +1,1 @@
-This Repo contains all the folders and code that I have written while solving challenges from the famous https://codingchallenges.fyi/challenges website . You can raise issues in the existing code , copy the code for your own purposes and also star it if you find it useful .
+This repo contains all the code that I have written while solving challenges from the famous https://codingchallenges.fyi/challenges website . You can raise issues in the existing code , copy the code for your own purposes and also star it if you find it useful .
